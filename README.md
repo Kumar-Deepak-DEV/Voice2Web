@@ -35,6 +35,20 @@ Our platform empowers small business owners to create a professional online pres
 
 ---
 
+## 🎯 MVP Scope (What We Are Building First)
+
+To keep the project realistic and deliver the complete core experience, our MVP focuses strictly on:
+*   **Authentication & Registration**
+*   **Duplicate Detection** (Preventing multiple profiles for the same store)
+*   **Voice Input & AI Extraction**
+*   **Review Screen & Theme Selection**
+*   **Website Generation & Publishing**
+*   **Consumer Business Search & Business Profile View**
+
+Everything else (analytics, reviews, mobile app, WhatsApp onboarding) is planned for later versions.
+
+---
+
 ## 🏗️ Project Architecture (MERN Stack)
 
 This is an open-source project built with the **MERN** stack:
